@@ -4,3 +4,7 @@
 [submodule "public/content/themes/320press"]
 	path = public/content/themes/320press
 	url = https://github.com/320press/wordpress-bootstrap
+[submodule "public/content/plugins/wpdk-production"]
+	path = public/content/plugins/wpdk-production
+	url = https://github.com/wpXtreme/wpdk.git
+	branch = production
